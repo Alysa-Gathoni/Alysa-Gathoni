@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Hi,%20I'm%20Alysa%20Macharia!&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Student%20|%20AI%20Enthusiast%20|%20Mobile%20Developer&descAlignY=65&descColor=ffffff" />
 </p>
 
 # Hi there, I'm Alysa Gathoni Macharia 👋
