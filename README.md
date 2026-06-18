@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Hi,%20I'm%20Alysa%20Gathoni!&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Student%20|%20AI%20Enthusiast%20|%20Mobile%20Developer&descAlignY=65&descColor=ffffff" />
 </p>
 
-# Hi there, I'm Alysa Gathoni Macharia 👋
+# Hi there, I'm Alysa Gathoni 👋
 
 A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
 
