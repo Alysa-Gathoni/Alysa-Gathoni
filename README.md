@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Hi,%20I'm%20Alysa%20Gathoni!&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Student%20|%20AI%20Enthusiast%20|%20Mobile%20Developer&descAlignY=65&descColor=ffffff" />
 </p>
 
-# Hi there, I'm Alysa Gathoni Macharia 👋
+# Hi there👋
 
 I'm a final-year Computer Science student at Strathmore University with a passion for building technology that solves real-world problems. I enjoy creating intelligent software solutions using Artificial Intelligence, Machine Learning, and Mobile Development while continuously expanding my skills through projects, research, and hands-on experience.
 
