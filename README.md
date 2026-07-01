@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Hi,%20I'm%20Alysa%20Gathoni!&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Student%20|%20AI%20Enthusiast%20|%20Mobile%20Developer&descAlignY=65&descColor=ffffff" />
 </p>
@@ -100,4 +99,4 @@ I'm a final-year Computer Science student at Strathmore University with a passio
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
 </p>
-```
+
