@@ -83,7 +83,6 @@ I'm a final-year Computer Science student at Strathmore University with a passio
 - 🧠 Artificial Intelligence & Machine Learning
 - ☁️ Cloud Computing
 - 📊 Data Science
-- 🔐 Cybersecurity
 - 📱 Mobile Development
 - 🏗️ Software Engineering Best Practices
 
